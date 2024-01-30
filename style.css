@@ -1,13 +1,14 @@
 body {
-    background-color: aquamarine;
+    background-color: rgb(205, 224, 218);
 }
 h1 {
-    color: brown;
+    color: rgb(119, 26, 226);
 }
 p {
     color: antiquewhite;
 }
 /* Style of image */
 img {
-    border-radius: 1px;
+    border-radius: 1px 3px;
+    
 }
